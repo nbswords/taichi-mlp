@@ -9,7 +9,7 @@ Taichi  graph approximation by Multiple Perceptron
 run `python ./taichi.py`
 
 Default is not displaying the animation
-Set the parameter `anim` in the `taichi.py` to 1 to show the animation.
+Set the parameter `anim` in the `taichi.py` to `1` to show the animation.
 
 ## issue
 
