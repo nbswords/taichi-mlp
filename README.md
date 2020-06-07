@@ -13,8 +13,8 @@ Set the parameter `anim` in the `taichi.py` to 1 to show the animation.
 
 ## issue
 
-If the error of **Memory Error** appear
-Just set parameters fewer
+If the error of **Memory Error** appear,
+Just set parameters fewer will fix it.
 
 ## Reference
 
