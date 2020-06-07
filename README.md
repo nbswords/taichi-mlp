@@ -5,10 +5,11 @@ Taichi  graph approximation by Multiple Perceptron
 * Progress bar by [alive-progress](https://github.com/rsalmei/alive-progress)
 * Animation of taichi graph plotting
 
-## Useage
+## Usege
+
 run `python ./taichi.py`
 
-Default is not displaying the animation
+Default is not displaying the animation.
 Set the parameter `anim` in the `taichi.py` to `1` to show the animation.
 
 ## issue
